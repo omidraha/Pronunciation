@@ -12,4 +12,5 @@ Contents:
    :maxdepth: 2
 
    curl/index
+   django/index
    kubernetes/index
